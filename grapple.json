@@ -1,0 +1,12 @@
+{
+    "hooked": [{
+        "module": "grapple-json-db",
+        "type": "db"
+    }],
+    "network": {
+        "networkName": "test",
+        "networkId": "001",
+        "defaultDbName": "data",
+        "defaultDbAddr": "local"
+    }
+}
